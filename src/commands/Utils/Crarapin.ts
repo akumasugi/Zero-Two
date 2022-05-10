@@ -46,7 +46,7 @@ export default class Command extends BaseCommand {
             return void M.reply(e.message)
         })
         for (let i = 0; i < amount; i++) {
-			const res = `*🌟 Here you go.*`;
+			const res = `*Here you go darling.*`;
 			this.client.sendMessage(
 				M.from,
 				{ url: data.result[Math.floor(Math.random() * data.result.length)] },
