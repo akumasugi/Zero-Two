@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
     run = async (M: ISimplifiedMessage): Promise<void> => {
         (await this.client.sendMessage(
         M.sender.jid,
-        `    📍My Developer's Group📍\n\n*🎇ℤ𝔼ℝ𝕆 𝕋𝕎𝕆 support group:🎇* *https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g*\n\n`,
+        `    💖My Darling Group💖\n\n*💖ℤ𝔼ℝ𝕆 𝕋𝕎𝕆 support group:💖* *https://chat.whatsapp.com/EeIT4nf7PBUD8Kwbm4FgJC*\n\n`,
            MessageType.text
         ))
         const n = [
@@ -28,7 +28,7 @@ export default class Command extends BaseCommand {
         let beckylynch = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url:beckylynch }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `I sent you the support Link in personal message. Pls check.\n` }
+            caption: `Darling please check your personal text.\n` }
         )
 
         }
