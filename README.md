@@ -2,7 +2,7 @@
 <a href="https://ibb.co/6P3BsqY"><img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" border="0"></a>
 
 # **Zero Two BOT**
-#### **Advanced WhatsApp Bot With Rich Anime Features Developed by [FantoX](https://github.com/FantoX001)**
+#### **Advanced WhatsApp Bot With Rich Anime Features Developed by [akumasugu](https://github.com/akumasugi)**
 
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
@@ -16,7 +16,7 @@ A Fully Modular, fast and Efficient Bot. <br>
 Deply Zero Two form Heroku
 
 
-<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/FantoX001/Zero-Two)
+<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/akumasugi/Zero-Two)
 <br/><br/>
 
 
@@ -28,7 +28,7 @@ Deply Zero Two form Heroku
 -   Fully Modular Design
 -   Object Oriented
 -   Easy to use
--   Totally free to use and distributed by [Fantox](https://github.com/FantoX001)
+-   Totally free to use and distributed by [akumasugi](https://github.com/akumasugi)
 -   Written in [TypeScript](https://www.typescriptlang.org/)
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
     WhatsApp Library Out Available There)
