@@ -12,8 +12,8 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
   ],
-  "website": "https://github.com/FantoX001/Zero-Two#readme",
-  "repository": "https://github.com/FantoX001/Zero-Two.git",
+  "website": "https://github.com/akumasugi/Zero-Two#readme",
+  "repository": "https://github.com/akumasugi/Zero-Two",
   "logo": "https://wallpapercave.com/wp/wp8830706.png",
   "success_url": "/",
   "env": {
