@@ -37,7 +37,7 @@ switch (data.result.medias[0].type) {
         MessageType.image,
                     undefined,
                     undefined,
-                    `Here you go`,
+                    `Here you go darling`,
                     undefined
                 )
     break
