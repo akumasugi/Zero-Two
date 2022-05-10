@@ -23,7 +23,7 @@ Deply Zero Two form Heroku
 </div><br/>
 <br/>
 
-## ✨ Highlights of Zero Two Bot
+## ✨ Highlights of Zero Two
 
 -   Fully Modular Design
 -   Object Oriented
