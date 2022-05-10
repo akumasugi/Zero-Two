@@ -43,7 +43,7 @@ export default class Command extends BaseCommand {
 				`Couldn't find any matching term of wallpaper.`
 			));
 		for (let i = 0; i < amount; i++) {
-			const res = `*🌟 Here you go.*`;
+			const res = `*Here you go darling.*`;
 			this.client.sendMessage(
 				M.from,
 				{ url: wallpaper[i].image },
