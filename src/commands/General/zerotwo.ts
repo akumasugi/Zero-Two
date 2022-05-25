@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
 	run = async (M: ISimplifiedMessage): Promise<void> => {
 		const chitoge =
-			"https://c.tenor.com/z6GMGNV3teMAAAPo/darling-in-the-franxx-zero-two.mp4";
+			"https://telegra.ph/file/d3f8bdbde80387e472fde.mp4";
 		return void this.client.sendMessage(
 			M.from,
 			{ url: chitoge },
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `📍 *Zero Two* 📍\n\n🍀 *Description: Repo is private better luck next time.*\n\n💖 *My insta id: https://www.instagram.com/akuma__24/?hl=en* \n\n,
+				caption: `📍 *Zero Two* 📍\n\n🍀 *Description: Repo is private better luck next time*\n\n💖 *My insta id: https://www.instagram.com/akuma__24/?hl=en* \n\n,
 			}
 		);
 	};
