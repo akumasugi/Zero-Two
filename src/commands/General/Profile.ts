@@ -35,7 +35,7 @@ export default class Command extends BaseCommand {
         } catch (err) {
             M.reply(`Profile picture is view contacts only of ${username}`)
             pfp =
-                'https://wallpapercave.com/wp/wp5982004.jpg'
+                'https://i.ibb.co/1f9LBCp/c82db21d5499a11de52aa6d4ff152c72.jpg'
         }
         const exp = (await this.client.getUser(user)).Xp
         let role: string;
