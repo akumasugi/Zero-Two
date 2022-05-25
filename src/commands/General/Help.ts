@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage, parsedArgs: IParsedArgs): Promise<void> => {
             const n = [
-            'https://c.tenor.com/dEYkyvVk4OQAAAPo/lol.mp4'
+            'https://telegra.ph/file/516ef56076bcc914aeb56.mp4'
         ]
         let chitoge = n[Math.floor(Math.random() * n.length)]
 	if (!parsedArgs.joined) {
@@ -67,8 +67,7 @@ export default class Command extends BaseCommand {
  
 ┌────────────┈❅
 │   『 Zero Two 』
-│   Based on: Chitoge and Void
-│   Reverse Engineer: akuma
+│   『 豪鬼 』
 └────────────┈⁂
 
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info and don't spam or call Zero Two.*` }
