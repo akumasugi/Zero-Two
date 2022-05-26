@@ -35,7 +35,7 @@ Deply Zero Two form Heroku
 
 ## 💻 How to deploy/host Akeno
 
--   Pls check ["Zero Two Guides"](https://github.com/FantoX001/Akeno-Guides/blob/main/README.md) for error free hosting/deployment.
+-   Pls check ["Zero Two Guides"](https://github.com/akumasugi/Akeno-Guides/blob/main/README.md) for error free hosting/deployment.
 
 
 ## 🗏 All features of this repository
