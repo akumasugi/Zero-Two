@@ -43,12 +43,11 @@ export default class Command extends BaseCommand {
 				}
 			}
             let text = `
-╭──────────────────𐏋
-│⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
-│⋊ ℕ𝕒𝕞𝕖: Zero Two
-│⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
-│⋊ 𝕆𝕨𝕟𝕖𝕣: *𝐀𝐊𝐔𝐌𝐀*
-│⋊ インスタ: https://www.instagram.com/akuma__24/?hl=en
+╭─「( ꈍᴗꈍ)」
+│⋊ 𝐔𝐬𝐞𝐫: *${M.sender.username}*
+│⋊ 𝐍𝐚𝐦𝐞: 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨
+│⋊ 𝐏𝐫𝐞𝐟𝐢𝐱: ${this.client.config.prefix}
+│⋊ 𝐎𝐰𝐧𝐞𝐫: https://www.instagram.com/akuma__24/?hl=en
 ╰──────────────────𐏋                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -66,8 +65,8 @@ export default class Command extends BaseCommand {
  
  
 ┌────────────┈❅
-│   『 Zero Two 』
-│   『 豪鬼 』
+│   『 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 』
+│   『 𝐚𝐤𝐮𝐦𝐚 』
 └────────────┈⁂
 
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info and don't spam or call Zero Two.*` }
