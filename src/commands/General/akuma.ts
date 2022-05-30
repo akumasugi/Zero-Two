@@ -22,7 +22,7 @@ export default class Command extends BaseCommand {
 
             category: 'general',
 
-            usage: `${client.config.prefix}Raiden`
+            usage: `${client.config.prefix}Zerotwo`
 
         })
 
@@ -32,7 +32,7 @@ export default class Command extends BaseCommand {
 
         const n = [
 
-            'https://i.ibb.co/x1jcS2w/2557ca680a037ecac23bcea30722136e.jpg'
+            'https://i.ibb.co/DzHGnWW/28cca428fba41f9b9da3daf491a3df24.jpg'
 
         ]
 
@@ -42,7 +42,7 @@ export default class Command extends BaseCommand {
 
             mimetype: Mimetype.jpeg,
 
-            caption: `⚡𝗛𝗘𝗟𝗟𝗢!❄️I'm 𝐀𝐊𝐔𝐌𝐀 an ordinary guy who loves watching anime & play games🎮. I'm a BCA Student🤍relationship with 𝐙𝐄𝐑𝐎❤️  
+            caption: `My Darling.. 𝐀𝐊𝐔𝐌𝐀 an ordinary guy who loves watching anime & play games🎮. I'm a BCA Student🤍relationship with 𝐙𝐄𝐑𝐎❤️  
 
             
 
